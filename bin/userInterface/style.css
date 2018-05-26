@@ -1,0 +1,49 @@
+.root{
+	-fx-background-color: #383838;
+	-fx-font-size: 11pt;
+}
+.button{
+	-fx-background-color: #AB4642;
+	-fx-text-fill: white;
+	-fx-font-weight: bold;
+}
+.menubar{
+	-fx-background-color: lightskyblue;
+}
+.menu{
+	-fx-background-color: lightskyblue;
+	-fx-font-weight: bold;
+}
+#bold-label{
+	
+}
+.ellipse{
+	-fx-background-color: green; 
+}
+#titletext{
+	-fx-stroke: white;
+	-fx-text-fill: green;
+	-fx-font-size: 40pt;
+	-fx-font-weight: bold;
+	-fx-font-family: comic sans ms;
+}
+.label{
+	-fx-text-fill: white;
+	-fx-font-weight: bold;
+}
+.menu-item{
+	-fx-background-color: slategrey;
+}
+.title{
+	-fx-background-color: #383838;
+	-fx-text-fill: white;
+	-fx-font-weight: bold;
+}
+.submit-button{
+	-fx-pref-width: 200px;
+}
+.list-view{
+	-fx-background-color: slategrey;
+	-fx-font-weight: bold;
+}
+
